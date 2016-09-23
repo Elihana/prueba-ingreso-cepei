@@ -8,4 +8,4 @@ Los colores del gradiente de color del fondo son #5180AE #7AC543 #282C59 y el co
 
 En este repositorio se encuentran los archivos para el desarrollo del mismo, que bien se pueden clonar o descargar como un comprimible. Habrá una valoración extra si la maqueta desarrollada se sube como repositorio de github, o aún mejor, como un pul request a este mismo repositorio.
 
-Se debe tomar en cuenta que la página debería poder visualizarse bien en pantallas de diferentes resoluciones y relaciones de aspecto.
+Se debe tomar en cuenta que la página debería poder visualizarse bien en pantallas de diferentes resoluciones y relaciones de aspecto, para ello es posible utilizar los estilos de twitter bootstrap. (incluidos en la carpeta css).
