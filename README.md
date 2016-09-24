@@ -1,4 +1,4 @@
-# prueba-ingreso-cepei
+# prueba cepei
 
 La prueba consiste en implementar (tan parecido como sea posible) el diseño mostrado a continuación:
 
